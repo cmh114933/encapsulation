@@ -77,11 +77,11 @@ OAuth
 
 +++
 
-![Landlord](https://kroki.io/mermaid/svg/eNptzlEKwjAMBuD3nSIX2AX6MBgICk4UbxDWrAa2Fpt0sNubDWWI5i2QL_8v9CwUezowhoxTBTYdRj-m7Ou6adpAUR0ceSYBLPpImQWVU4SRVClvYruy6490cF__ikL7l-wITMEFIwaabL0OA_fk4JbTzN4iv323R_4gWOvCu-8pFSE40yKWVb0AQ_9NCg==)
+![Landlord](https://kroki.io/mermaid/svg/eNplzU0KgzAUBOC9p5gLeAEXglCoUEt7hYcZ0wea0PwI3r7RdiOd3cB8TOQ70428qNggS4WSQZyZfTB13badpUsNrroyQnJ6-aBRknqHmSkxVAc5Zih73MWJ5VLqY5p0ZINn8KuawrsTH758138I-zV-373Pkbhxi_gATck65w==)
 
 +++
 
-![Oauth](https://kroki.io/mermaid/svg/eNp1jkEKwjAURPeeYi7QC2RRKEjdiYge4Jt8NJTmY_JT6u2bCBaFOuv3ZibxM3OwvPd0jzTuUHJNHJumbY88K1lyPL4MDn7iBMr6kOgTqZeAiwwc3soXWsRaYHCu1UnRbTgbEnqyfBMZDE5RJu_KXPdnbmXrTfz8XN0PglzewJHSAsgZUbg=)
+![Oauth](https://kroki.io/mermaid/svg/eNorTi0sTc1LTnXJTEwvSszlUgCC0OLUIl1dOzu3xOTUpPz8bCsF98yy1GKFxNKSjPyizOLEksz8PIWQ_OzUPLB6mDoFoB4Fv9SKksTkxJTU3EoFfBrBOpEUg_QiLAwoyi_LTAFqdSRgpy6anUha4c4qBfpHISWxJBEAfK9RTw==)
 
 
 ---
